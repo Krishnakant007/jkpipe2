@@ -10,7 +10,7 @@ const Whatsapp = () => {
   };
 
   const startChat = () => {
-    const phoneNumber = '9405799633'; // WhatsApp phone number
+    const phoneNumber = '919405799633'; // WhatsApp phone number
     const message = 'Hi, I need help!'; // Predefined message to send
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
