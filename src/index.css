@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* @import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css"; */
+
+
+
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    width: 100%; /* Ensure full width */
+  }
+  
+
+
+  .bg-fixed {
+    background-attachment: fixed;
+}
+.bg-cover {
+    background-size: cover;
+}
+.bg-center {
+    background-position: center;
+}
