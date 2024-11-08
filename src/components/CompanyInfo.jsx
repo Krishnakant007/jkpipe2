@@ -1399,7 +1399,7 @@ const CompanyInfo = () => {
         <section
             className="py-8 px-4 sm:px-8 md:px-16 lg:px-24 xl:px-32 bg-cover bg-center"
             style={{
-                backgroundImage: `url('/public/infra.jpeg')`,
+                backgroundImage: `url('/infra.jpeg')`,
             }}
             
         >
