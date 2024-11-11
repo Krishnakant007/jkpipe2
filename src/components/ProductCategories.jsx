@@ -527,7 +527,7 @@ const ProductCategories = () => {
                 <p className="text-gray-500 mt-5 text-xl">We offer a wide range of high-quality pipes for all your needs.</p>
             </div>
 
-            <h2 className="text-3xl font-bold mb-6 pl-10">Our Products</h2>
+            
 
             <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-6">
                 {/* SWR Category */}
