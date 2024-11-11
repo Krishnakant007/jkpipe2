@@ -874,19 +874,19 @@ const CompanyInfo3 = () => {
                     <h3 className="text-4xl font-bold text-blue-600 mb-4 lg:mt-0 px-5">Our Vision</h3>
                     <p
                         ref={(el) => (textRef.current[0] = el)}
-                        className="text-lg text-gray-700 mb-4 font-bold"
+                        className="text-lg text-gray-700 mb-4 font-bold py-5"
                     >
                         Our vision is to be a leading provider of high-quality piping solutions, delivering products that meet the diverse needs of agriculture, industrial, and domestic sectors.
                     </p>
                     <p
                         ref={(el) => (textRef.current[1] = el)}
-                        className="text-lg text-gray-700 mb-4 font-bold"
+                        className="text-lg text-gray-700 mb-4 font-bold py-5"
                     >
                         By producing HDPE, uPVC, and PVC piping systems, we empower farmers with efficient, water-saving irrigation solutions, including our durable and maintenance-free sprinkler systems.
                     </p>
                     <p
                         ref={(el) => (textRef.current[2] = el)}
-                        className="text-lg text-gray-700 mb-4 font-bold"
+                        className="text-lg text-gray-700 mb-4 font-bold py-5"
                     >
                         We envision a future where our piping systems support sustainable growth, reduce labor requirements, and conserve resources, ultimately contributing to more resilient infrastructure.
                     </p>
