@@ -856,17 +856,17 @@ const Header = () => {
           </p>
 
           {/* Product Range */}
-          <p ref={productRangeRef} className="text-base md:text-lg mb-6 leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
+          <p ref={productRangeRef} className="text-lg md:text-xl mb-6 leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
             Our quality products are fabricated using high-grade material and the latest techniques prevalent in the industry. Widely appreciated for their durability and other attributes, our products can be tailored as per client's requirements.
           </p>
 
           {/* Quality Statement */}
-          <p ref={qualityStatementRef} className="text-base md:text-lg mb-6 leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
+          <p ref={qualityStatementRef} className="text-lg md:text-xl mb-6 leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
             We consist of a professionally trained and skilled workforce. They work in close coordination with each other to ensure total customer satisfaction.
           </p>
 
           {/* Closing Statement */}
-          <p ref={closingStatementRef} className="text-base md:text-lg leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
+          <p ref={closingStatementRef} className="text-lg md:text-xl mb-6 leading-relaxed text-center font-bold" style={{ fontFamily: "'Poppins', sans-serif" }}>
             Furthermore, they are supported by technical assistants who have deep knowledge of their domain. The supply of products and other business dealings are executed by our skilled sales professionals in an efficient manner.
           </p>
         </div>
