@@ -980,7 +980,7 @@ const ImageSliderComponent = () => {
 
   // Corresponding text for each image
   const texts = [
-    "Innovations that change the way we live.",
+    "Transforming Daily Life with Stronger, Advanced Pipes.",
     "Focused on improving the quality of life.",
     "Growing responsibly for a better future.",
     "Building a sustainable tomorrow.",
