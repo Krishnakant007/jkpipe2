@@ -453,8 +453,8 @@ const UPVCProductScreen = () => {
   
   const products = [
     {
-        name: "JK Pipe",
-        brand: "STAR",
+        name: "JK Pipes",
+        brand: "JK",
         material: "PVC",
         size: "3/4 Inch",
         length: "100 ft",
