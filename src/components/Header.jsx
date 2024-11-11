@@ -636,7 +636,7 @@ const Header = ({ setActiveSection }) => {
       <div className="relative">
         <div className="flex justify-between items-center px-10 p-3">
           <img
-            src="/k(2).png"
+            src="/k2.png"
             width={90}
             height={50}
             alt="Logo"
